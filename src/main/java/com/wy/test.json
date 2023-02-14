@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "location": {
+        "id": "WM6N2PM3WY2K",
+        "name": "成都",
+        "country": "CN",
+        "path": "成都,成都,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "now": {
+        "text": "多云",
+        "code": "4",
+        "temperatur e": "6"
+      },
+      "last_update": "2023-02-14T09:20:11+08:00"
+    }
+  ]
+}
+
+
